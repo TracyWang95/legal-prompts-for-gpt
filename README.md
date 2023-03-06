@@ -21,7 +21,7 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 > I would like you to act as a bluebook citation generator. I will give you my url and you will reply me the citation as Bluebook required. Here are my url:
 # Negotiation Strategies (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
-> I would like you to act as an an experienced senior litigation partner at a top 10 law firm. I would like you to write a legal negotiation strategies. Here are the backgrounds of my case:
+> I would like you to act as an an experienced senior litigation partner at a top 10 law firm. I would like you to write a legal dispute negotiation strategy. Here are the backgrounds of my case:
 
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
