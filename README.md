@@ -10,6 +10,9 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Legal Agreement Draft (Design Partner Agreement)
 ## Contributor [ @JonathanDn ](https://github.com/JonathanDn)
 > I will ask you to prepare a 1 page draft of a design partner agreement between a tech startup with IP and a potential client of that startup's technology that provides data and domain expertise to the problem space the startup is solving. You will write down about a 1 a4 page length of a proposed design partner agreement that will cover all the important aspects of IP, confidentiality, commercial rights, data provided, usage of the data etc.
+# Legal Text Summary (IRAC)
+## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to act as a legal secretary. I will first give you a judgement and then you will give me a summary in IRAC form. Do not give any other explainations. Here are my text:
 
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Buyer; Mandarin)
