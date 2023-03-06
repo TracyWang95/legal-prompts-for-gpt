@@ -1,5 +1,19 @@
 # legal-prompts-for-gpt
 An opensource legal prompts. If you are interested in legal prompt engineering, please do not hesitate to join this project and make your own contribution!
+# Why do this?
+Opening an open source project for legal prompts engineering can have a number of benefits, including increased efficiency, promotion of human flourishing, and enhanced knowledge sharing. Here are some main points to consider:
+
+Efficiency: By opening up an open source project for legal prompts engineering, you are inviting a large community of contributors to help improve and maintain the project. This can lead to faster development and bug fixing, as well as a wider range of expertise contributing to the project.
+
+Human flourishing: Open source projects are often driven by a desire to create something of value for the greater good. By contributing to an open source project for legal prompts engineering, individuals can feel a sense of purpose and accomplishment, which can lead to greater happiness and fulfillment.
+
+Knowledge sharing: Open source projects are built on the principle of sharing knowledge and collaborating with others. By opening up a project for legal prompts engineering, you are inviting others to share their ideas, expertise, and best practices. This can lead to a deeper understanding of the subject matter and the development of new techniques and strategies.
+
+Flexibility: Open source projects are often highly flexible, allowing contributors to modify the code to suit their specific needs. This can be especially useful in the context of legal prompts engineering, where different organizations may have different requirements for how the system should function.
+
+Community building: By contributing to an open source project for legal prompts engineering, individuals can connect with others who share their passion for the subject matter. This can lead to the formation of a vibrant community of experts and enthusiasts, who can work together to advance the field and share their knowledge with others.
+
+In summary, opening an open source project for legal prompts engineering can have a range of benefits, including increased efficiency, promotion of human flourishing, enhanced knowledge sharing, flexibility, and community building. By working together to create a shared resource, contributors can make a meaningful impact on the field and help to advance the development of legal technology.
 # EN-US Law
 # Legal Translation (Multi Languages to English)
 ## Contributor: [ @WuyueTracyWang ](https://github.com/TracyWang95)
