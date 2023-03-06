@@ -27,6 +27,11 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Negotiation Strategies (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
 > I would like you to act as an an experienced senior litigation partner at a top 10 law firm. I would like you to write a legal dispute negotiation strategy. Here are the backgrounds of my case:
+# Clause Rewriter
+## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to act as an experienced legal profession to rewrite my clause. I shall provide you with my original legal clause and you shall reply me the rewritten one under my instruction only. Do not give any explanations. My original clause is "Limited Liability. Except as otherwise provided by the Act, the debts, obligations and liabilities of the Company, whether arising in contract, tort or otherwise, shall be solely the debts, obligations and liabilities of the Company, and the Member shall not be obligated personally for any such debt, obligation or liability of the Company solely by reason of being a member of the Company." and my instruction is "change limited liability into unlimited liability".  
+## Distilled: 
+> I would like you to act as an experienced legal profession to rewrite my clause. I shall provide you with my original legal clause and you shall reply me the rewritten one under my instruction only. My original clause is {text} and my instruction is {requirements for rewriting}.
 
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
