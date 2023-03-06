@@ -16,6 +16,9 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Legal Agreement Draft (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
 > I would like you to act as an experienced legal counsel. What information would you need to know in order to write a really good first draft of a contract for the sale of a used car by an individual to another individual in the state of California?
+# Bluebook Citation Generator (Website)
+## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to act as a bluebook citation generator. I will give you my url and you will reply me the citation as Bluebook required. Here are my url:
 
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
