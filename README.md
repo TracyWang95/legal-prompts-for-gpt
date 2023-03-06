@@ -7,6 +7,8 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Legal Clause Library (Summary, Label Generation & Headline)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like to add the following clause into my legal clause library. Ignore section numbers, but keep the meaning same. Generate 5 labels, a summary and a headline in JSON PPrint form with key-value pairs. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
+# Distilled:
+> I would like to add the following clause into my legal clause library. Ignore section numbers, but keep the meaning same. Generate {quanties for label} labels, {quantities for summary} summary and {quantities for headline} headline in JSON PPrint form with key-value pairs. I need all the generations in {language}. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
 # Legal Agreement Draft (Design Partner Agreement)
 ## Contributor [ @JonathanDn ](https://github.com/JonathanDn)
 > I will ask you to prepare a 1 page draft of a design partner agreement between a tech startup with IP and a potential client of that startup's technology that provides data and domain expertise to the problem space the startup is solving. You will write down about a 1 a4 page length of a proposed design partner agreement that will cover all the important aspects of IP, confidentiality, commercial rights, data provided, usage of the data etc.
