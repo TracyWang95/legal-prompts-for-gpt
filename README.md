@@ -36,4 +36,4 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > 我希望你扮演市场专家的角色，进行例句仿写。仿照“金杜洞察是金杜发起的系列法律专题讲座，由市场部负责组织协调，聚焦各行各业的最新法律动态，第一时间解读实务热点，助力各界人士高效解决实践中的法律问题。”，给出关于金杜智享会的介绍语句，主要突出“合作”、“邀请第三方”。语言风格简练、专业、沉稳。
 ## Distilled:
-> 我希望你扮演市场专家的角色，进行例句仿写。仿照<example>，给出关于<object>的介绍语句，主要突出<emphasis>。语言风格<style>。
+> 我希望你扮演市场专家的角色，进行例句仿写。仿照{example}，给出关于{object}的介绍语句，主要突出<emphasis>。语言风格<style>。
