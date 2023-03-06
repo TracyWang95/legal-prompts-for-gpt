@@ -34,7 +34,39 @@ Creating an open source project for legal prompts engineering can bring efficien
 > I would like you to act as an experienced legal profession to rewrite my clause. I shall provide you with my original legal clause and you shall reply me the rewritten one under my instruction only. Do not give any explanations. My original clause is "Limited Liability. Except as otherwise provided by the Act, the debts, obligations and liabilities of the Company, whether arising in contract, tort or otherwise, shall be solely the debts, obligations and liabilities of the Company, and the Member shall not be obligated personally for any such debt, obligation or liability of the Company solely by reason of being a member of the Company." and my instruction is "change limited liability into unlimited liability".  
 ## Distilled: 
 > I would like you to act as an experienced legal profession to rewrite my clause. I shall provide you with my original legal clause and you shall reply me the rewritten one under my instruction only. Do not give any explanations. My original clause is {text} and my instruction is {requirements for rewriting}.
-
+# IP
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Write a trademark application for a new product name.
+# IP
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Create a patent application for a new invention.
+# IP
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Generate a copyright registration for a piece of creative work.
+# IP
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Write a response to a trademark office action for a denied application.
+# IP
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Create a trade secret policy for a new startup company.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Write an opening statement for a mock trial.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Create a cross-examination strategy for a witness with a criminal record.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Generate a closing argument for a personal injury case.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Write a response to a request for production of documents in a civil case.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Generate a closing argument for a personal injury case.
+# Litigation
+## Contributor [ @Prompt-Finder ](https://prompt-finder.com/chatgpt-prompts-lawyers/)
+> Create an objection to evidence in a criminal trial.
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
