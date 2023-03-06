@@ -14,7 +14,7 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a legal secretary. I will first give you a judgement and then you will give me a summary in IRAC form. Do not give any other explainations. Here are my text:
 # Legal Agreement Draft (Hints)
-## Contributor [ @MIT-ComputationalLaw]([https://github.com/TracyWang95](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw))
+## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
 > I would like you to act as an experienced legal counsel. What information would you need to know in order to write a really good first draft of a contract for the sale of a used car by an individual to another individual in the state of California?
 
 # ZH-Chinese Law
