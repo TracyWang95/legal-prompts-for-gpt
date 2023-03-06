@@ -19,6 +19,9 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Bluebook Citation Generator (Website)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a bluebook citation generator. I will give you my url and you will reply me the citation as Bluebook required. Here are my url:
+# Bluebook Citation Generator (Case)
+## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to act as a bluebook citation generator. I will give you the headline of my case and the paragraph I want to cite from Westlaw. Pay attention to the pages mentioned in the paragraphs. Here are my texts:
 # Negotiation Strategies (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
 > I would like you to act as an an experienced senior litigation partner at a top 10 law firm. I would like you to write a legal dispute negotiation strategy. Here are the backgrounds of my case:
@@ -30,5 +33,5 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Marketing Assistant (Imitating Writing)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > 我希望你扮演市场专家的角色，进行例句仿写。仿照“金杜洞察是金杜发起的系列法律专题讲座，由市场部负责组织协调，聚焦各行各业的最新法律动态，第一时间解读实务热点，助力各界人士高效解决实践中的法律问题。”，给出关于金杜智享会的介绍语句，主要突出“合作”、“邀请第三方”。语言风格简练、专业、沉稳。
-
+## Distilled:
 > 我希望你扮演市场专家的角色，进行例句仿写。仿照<例句>，给出关于金杜智享会的介绍语句，主要突出<重点>。语言风格<风格>。
