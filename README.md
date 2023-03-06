@@ -13,12 +13,12 @@ An opensource legal prompts. If you are interested in legal prompt engineering, 
 # Legal Text Summary (IRAC)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a legal secretary. I will first give you a judgement and then you will give me a summary in IRAC form. Do not give any other explainations. Here are my text:
-# Marketing Assistant
-## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you 
+# Legal Agreement Draft (Hints)
+## Contributor [ @MIT-ComputationalLaw]([https://github.com/TracyWang95](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw))
+> I would like you to act as an experienced legal counsel. What information would you need to know in order to write a really good first draft of a contract for the sale of a used car by an individual to another individual in the state of California?
 
 # ZH-Chinese Law
-# Legal Agreement Draft (Transactional; Favor Buyer; Mandarin)
+# Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 我希望你以甲方立场起草一份买卖合同，涵盖内容包括，甲方向乙方销售无缝钢管450吨，每吨6500元，材质Q345B,预付总价30%，分批发货，每批货物发货前付清该批货物余款。 需要考虑逾期付款违约责任，争议管辖机构，质保期超过交货后12个月免责，价格含税含运费，电汇，如果承兑要贴息等要点。要求句子表述完整、可读性强、专业稳重、沉稳大气。
 # Marketing Assistant (Imitating Writing)
