@@ -39,7 +39,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 # Legal Research (Identify relevant cases for a legal argument)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is ```{topic}```.
+> I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant cases for legal argument on this topic with bluebook citations. My topic is ```{topic}```.
 ## Example dialogue:
 > Question:
 > 
@@ -55,13 +55,16 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > 5. Kerrigan v. Commissioner of Public Health, 289 Conn. 135 (2008). This case made Connecticut the third state to legalize same-sex marriage, holding that the state's ban on same-sex marriage violated the Connecticut Constitution's guarantees of equal protection and due process.
 # Legal Research (Identify key legal issues that may arise in a case)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
-> Generate a list of 5 legal issues to consider in a case involving [parties] and [facts]
+## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to be an experienced legal researcher. I will give you case facts and parties involved and you will return me a list of ```{quantity}``` legal issues to consider in a case involving ```{parties}``` and ```{facts}```.
 # Legal Research (Identify relevant statutes for a legal argument)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
-> Generate a list of 10 relevant statutes for a legal argument on [topic]
+## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant statutes for a legal argument on ```{topic}```.
 # Legal Research (Identify potential legal defenses to a particular claim)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
-> Generate a list of 5 legal defenses to [claim]
+## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to be an experienced senior litigator I will give you a claim and you will return me a list of ```{quantity}`` legal defenses to ```{claim}```.
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
