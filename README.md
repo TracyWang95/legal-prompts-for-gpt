@@ -99,7 +99,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > 9. Any additional terms and conditions that the parties wish to include in the contract
 > 
 > In addition to the above information, it would also be helpful to know any other relevant facts about the transaction, such as whether the goods are new or used, whether they are custom-made or off-the-shelf, and whether the parties have any prior relationship or history of dealing with each other. This information will help ensure that the sales of goods contract is tailored to the specific needs and circumstances of the parties and is enforceable under Indiana law.
-# Bluebook Citation Generator (Website)
+## Bluebook Citation Generator (Website)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a bluebook citation generator. I will give you my URL and you will reply to me with the citation as Bluebook required. Here is my URL:```{URL}```
 ## Bluebook Citation Generator (Case)
@@ -138,7 +138,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant statutes for a legal argument on ```{topic}```.
-# Legal Research (Identify potential legal defenses to a particular claim)
+## Legal Research (Identify potential legal defenses to a particular claim)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to be an experienced senior litigator I will give you a claim and you will return me a list of ```{quantity}``` legal defenses to ```{claim}```.
