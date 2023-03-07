@@ -5,38 +5,52 @@ Creating an open-source project for legal prompts engineering can bring efficien
 # EN-US Law
 # Legal Translation (Multi Languages to English)
 ## Contributor: [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations.
+> I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: ```{text}```
 # Legal Clause Library (Summary, Label Generation & Headline)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate 5 labels, a summary, and a headline in JSON PPrint form with key-value pairs. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
-## Distilled:
-> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate {quanties for label} labels, {quantities for summary} summary, and {quantities for headline} headline in JSON PPrint form with key-value pairs. I need all the generations in {language}. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
+## Distilled
+> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate ```{quanties for label}``` labels, ```{quantities for summary}``` summary, and ```{quantities for headline}``` headline in JSON PPrint form with key-value pairs. I need all the generations in ```{language}```. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
 # Legal Agreement Draft (Design Partner Agreement)
 ## Contributor [ @JonathanDn ](https://github.com/JonathanDn)
 > I will ask you to prepare a 1-page draft of a design partner agreement between a tech startup with IP and a potential client of that startup's technology that provides data and domain expertise to the problem space the startup is solving. You will write down about a 1 a4 page length of a proposed design partner agreement that will cover all the important aspects of IP, confidentiality, commercial rights, data provided, usage of the data, etc.
 # Legal Text Summary (IRAC)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you to act as a legal secretary. I will first give you a judgment and then you will give me a summary in IRAC form. Do not give any other explanations. Here is my text:
+> I would like you to act as a legal secretary. I will first give you a judgment and then you will give me a summary in IRAC form. Do not give any other explanations. Here are my texts:```{texts}```
 # Legal Agreement Draft (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
 > I would like you to act as an experienced legal counsel. What information would you need to know to write a really good first draft of a contract for the sale of a used car by an individual to another individual in the state of California?
+## Distilled
+> I would like you to act as an experienced legal counsel. What information would you need to know to write ```{content}``` in the state of ```{state}```?
 # Bluebook Citation Generator (Website)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you to act as a bluebook citation generator. I will give you my URL and you will reply to me with the citation as Bluebook required. Here is my URL:
+> I would like you to act as a bluebook citation generator. I will give you my URL and you will reply to me with the citation as Bluebook required. Here is my URL:```{URL}```
 # Bluebook Citation Generator (Case)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you to act as a bluebook citation generator. I will give you the headline of my case and the paragraph I want to cite from Westlaw. Pay attention to the pages mentioned in the paragraphs. Here are my texts:
+> I would like you to act as a bluebook citation generator. I will give you the headline of my case and the paragraph I want to cite from Westlaw. Pay attention to the pages mentioned in the paragraphs. Here are my texts:```{text}```
 # Negotiation Strategies (Hints)
 ## Contributor [ @MIT-ComputationalLaw](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw)
-> I would like you to act as an experienced senior litigation partner at a top-10 law firm. I would like you to write a legal dispute negotiation strategy. Here are the backgrounds of my case:
+> I would like you to act as an experienced senior litigation partner at a top-10 law firm. I would like you to write a legal dispute negotiation strategy. Here are the backgrounds of my case:```{facts}```
 # Clause Rewriter
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as an experienced legal professional to rewrite my clause. I shall provide you with my original legal clause and you shall reply to me with the rewritten one under my instruction only. Do not give any explanations. My original clause is "Limited Liability. Except as otherwise provided by the Act, the debts, obligations, and liabilities of the Company, whether arising in contract, tort, or otherwise, shall be solely the debts, obligations, and liabilities of the Company, and the Member shall not be obligated personally for any such debt, obligation or liability of the Company solely by reason of being a member of the Company." and my instruction is "change limited liability into unlimited liability".  
 ## Distilled: 
-> I would like you to act as an experienced legal professional to rewrite my clause. I shall provide you with my original legal clause and you shall reply to me with the rewritten one under my instruction only. Do not give any explanations. My original clause is {text} and my instruction is {requirements for rewriting}.
+> I would like you to act as an experienced legal professional to rewrite my clause. I shall provide you with my original legal clause and you shall reply to me with the rewritten one under my instruction only. Do not give any explanations. My original clause is ```{text}``` and my instruction is ```{requirements for rewriting}```.
 # Legal Research (Identify relevant cases for a legal argument)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
-> Generate a list of 5 relevant cases for a legal argument on [topic]
+## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
+> I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is ```{topic}```.
+## Example dialogue:
+> Question:
+> I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is gay marriage.
+
+> Answer:
+> Certainly! Here are five relevant cases on gay marriage with their Bluebook citations:
+> 1. Obergefell v. Hodges, 576 U.S. ___ (2015). This landmark case declared same-sex marriage as a constitutional right under the Fourteenth Amendment of the United States Constitution.
+> 2. Windsor v. United States, 570 U.S. 744 (2013). This case struck down Section 3 of the Defense of Marriage Act (DOMA), which defined marriage as between one man and one woman, as unconstitutional under the Fifth Amendment.
+> 3. Perry v. Brown, 671 F.3d 1052 (9th Cir. 2012). This case affirmed the unconstitutionality of California's Proposition 8, which banned same-sex marriage in the state, under the Equal Protection Clause of the Fourteenth Amendment.
+> 4. Goodridge v. Department of Public Health, 440 Mass. 309 (2003). This case made Massachusetts the first state in the United States to legalize same-sex marriage, holding that the state's ban on same-sex marriage violated the Massachusetts Constitution.
+> 5. Kerrigan v. Commissioner of Public Health, 289 Conn. 135 (2008). This case made Connecticut the third state to legalize same-sex marriage, holding that the state's ban on same-sex marriage violated the Connecticut Constitution's guarantees of equal protection and due process.
 # Legal Research (Identify key legal issues that may arise in a case)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 > Generate a list of 5 legal issues to consider in a case involving [parties] and [facts]
