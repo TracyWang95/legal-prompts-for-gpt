@@ -118,7 +118,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant cases for legal argument on this topic with bluebook citations. My topic is ```{topic}```.
-## Example Dialogue:
+## Example Dialogue
 > **Question:**
 > 
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is same-sex marriage.
