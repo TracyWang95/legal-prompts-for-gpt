@@ -64,7 +64,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 # Legal Research (Identify potential legal defenses to a particular claim)
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like you to be an experienced senior litigator I will give you a claim and you will return me a list of ```{quantity}`` legal defenses to ```{claim}```.
+> I would like you to be an experienced senior litigator I will give you a claim and you will return me a list of ```{quantity}``` legal defenses to ```{claim}```.
 # ZH-Chinese Law
 # Legal Agreement Draft (Transactional; Favor Seller; Mandarin)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
