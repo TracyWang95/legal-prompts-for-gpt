@@ -7,11 +7,11 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Contributor: [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: ```{text}```
 ## Example Dialogue
-> Question:
+> **Question:**
 > 
 > I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: 标的公司及各承诺方应被视为分别及连带地于交割日向本次投资人陈述、保证和承诺，标的公司和各承诺方保证的所有条款在重大方面均将是真实、准确的，就如同标的公司和各承诺方保证是于交割日作出的一样，但涉及某特定时间点事实且依其性质仅在该特定时间点存续或有效的陈述、保证，仅需在该时间点是真实和准确的。
 
-> Answer:
+> **Answer:**
 > 
 > The target company and each committing party should be considered as making separate and joint representations, warranties, and covenants to the investors on the delivery date. All terms guaranteed by the target company and each committing party will be truthful and accurate in all material respects, just as they are guaranteed on the delivery date. However, representations, warranties, and covenants that relate to specific time points and that are only valid or effective at that specific time point, and are true and accurate only at that time point, need only be true and accurate at that time point due to their nature.
 # Legal Clause Library (Summary, Label Generation & Headline)
