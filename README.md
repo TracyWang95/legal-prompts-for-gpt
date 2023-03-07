@@ -81,9 +81,11 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > I would like you to act as an experienced legal counsel. What information would you need to know to write ```{content}``` in the state of ```{state}```?
 ## Example Dialogue
 > Question:
+> 
 > I would like you to act as an experienced legal counsel. What information would you need to know to write a sales of goods contract covering UCC warranty in the state of Indiana?
 
 > Answer:
+> 
 > As an experienced legal counsel, to write a sales of goods contract covering UCC warranty in the state of Indiana, I would need to know the following information:
 >
 > 1. The names and addresses of the buyer and seller
