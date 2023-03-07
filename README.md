@@ -42,9 +42,11 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is ```{topic}```.
 ## Example dialogue:
 > Question:
+> 
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is gay marriage.
 
 > Answer:
+> 
 > Certainly! Here are five relevant cases on gay marriage with their Bluebook citations:
 > 1. Obergefell v. Hodges, 576 U.S. ___ (2015). This landmark case declared same-sex marriage as a constitutional right under the Fourteenth Amendment of the United States Constitution.
 > 2. Windsor v. United States, 570 U.S. 744 (2013). This case struck down Section 3 of the Defense of Marriage Act (DOMA), which defined marriage as between one man and one woman, as unconstitutional under the Fifth Amendment.
