@@ -20,7 +20,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Distilled
 > I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate ```{quanties for label}``` labels, ```{quantities for summary}``` summary, and ```{quantities for headline}``` headline in JSON PPrint form with key-value pairs. I need all the generations in ```{language}```. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file. Here are my texts: ```{text}```.
 ## Example Dialogue
-> Question:
+> **Question:**
 > 
 > I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate 5 labels, 1 summary, and 5 headline in JSON PPrint form with key-value pairs. I need all the generations in English. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file. Here are my texts: 7.1一般义务
 每一方向其他方承诺在未经公司或有关各方(视情况而定)的事先书面同意之前，不会向第三方披露保密信息，也不会以对公司或有关各方(视情况而定)不利的方式使用保密信息，但获得其他方保密信息的一方(“接收方”)仍可向其符合下列条件的关联方、董事、官员、雇员、经理、成员、合伙人、代表或代理人，包括但不限于其律师、顾问、贷款人、潜在投资人及财务顾问(统称“该方代表”)披露保密信息：该方代表(x)需了解相关信息以使接收方能对拟议交易进行审查与评估，(y)并被告知保密信息的保密性，且(z)同意保持保密信息的秘密性。而且每一方还应促使该方代表也遵守上述规定。上述“保密信息”含义包括：(i)任何关于任何一方的组织、业务、技术、财务、交易或事务或其各自的董事、高级管理人员或雇员的信息(无论该信息是在本协议签署日前后或当日以书面、口头或任何其他方式提供)；(ii)本协议的条款和任何其他基本文件的条款，各方及其各自的关联方的身份，以及(iii)由一方或该方代表准备、且包含或在其他方面反映保密信息或由保密信息产生的任何信息或材料。
@@ -34,7 +34,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 (e)本协议一方披露给该方代表；前提是该方代表(i)负有类似的保密义务，或(ii)另行受到具约束力的专业保密义务的约束；或
 (f)公司在正常经营活动、交易或拟进行的交易中，因其合理必要性而需对有关任何公司的保密信息进行披露。
 
-> Answer:
+> **Answer:**
 > 
 > ```{
 >     "labels": [
@@ -80,11 +80,11 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Distilled
 > I would like you to act as an experienced legal counsel. What information would you need to know to write ```{content}``` in the state of ```{state}```?
 ## Example Dialogue
-> Question:
+> **Question:**
 > 
 > I would like you to act as an experienced legal counsel. What information would you need to know to write a sales of goods contract covering UCC warranty in the state of Indiana?
 
-> Answer:
+> **Answer:**
 > 
 > As an experienced legal counsel, to write a sales of goods contract covering UCC warranty in the state of Indiana, I would need to know the following information:
 >
@@ -117,11 +117,11 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant cases for legal argument on this topic with bluebook citations. My topic is ```{topic}```.
 ## Example Dialogue:
-> Question:
+> **Question:**
 > 
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is gay marriage.
 
-> Answer:
+> **Answer:**
 > 
 > Certainly! Here are five relevant cases on gay marriage with their Bluebook citations:
 > 1. Obergefell v. Hodges, 576 U.S. ___ (2015). This landmark case declared same-sex marriage as a constitutional right under the Fourteenth Amendment of the United States Constitution.
