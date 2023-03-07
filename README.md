@@ -10,6 +10,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > Question:
 > 
 > I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: 标的公司及各承诺方应被视为分别及连带地于交割日向本次投资人陈述、保证和承诺，标的公司和各承诺方保证的所有条款在重大方面均将是真实、准确的，就如同标的公司和各承诺方保证是于交割日作出的一样，但涉及某特定时间点事实且依其性质仅在该特定时间点存续或有效的陈述、保证，仅需在该时间点是真实和准确的。
+
 > Answer:
 > 
 > The target company and each committing party should be considered as making separate and joint representations, warranties, and covenants to the investors on the delivery date. All terms guaranteed by the target company and each committing party will be truthful and accurate in all material respects, just as they are guaranteed on the delivery date. However, representations, warranties, and covenants that relate to specific time points and that are only valid or effective at that specific time point, and are true and accurate only at that time point, need only be true and accurate at that time point due to their nature.
@@ -78,6 +79,23 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > I would like you to act as an experienced legal counsel. What information would you need to know to write a really good first draft of a contract for the sale of a used car by an individual to another individual in the state of California?
 ## Distilled
 > I would like you to act as an experienced legal counsel. What information would you need to know to write ```{content}``` in the state of ```{state}```?
+## Example Dialogue
+> Question:
+> I would like you to act as an experienced legal counsel. What information would you need to know to write a sales of goods contract covering UCC warranty in the state of Indiana?
+
+> Answer:
+> As an experienced legal counsel, to write a sales of goods contract covering UCC warranty in the state of Indiana, I would need to know the following information:
+>
+> 1. The names and addresses of the buyer and seller
+> 2. A detailed description of the goods being sold
+> 3. The price of the goods and the payment terms
+> 4. The delivery terms, including the time and place of delivery
+> 5. The UCC warranty provisions that will be included in the contract
+> 6. The specific warranties that the seller is making regarding the goods
+> 7. Any disclaimers of warranties or limitations of liability that will be included in the contract
+> 8. The remedies that are available to the buyer in case of breach of warranty or other breaches of the contract
+> 9. Any additional terms and conditions that the parties wish to include in the contract
+> In addition to the above information, it would also be helpful to know any other relevant facts about the transaction, such as whether the goods are new or used, > > whether they are custom-made or off-the-shelf, and whether the parties have any prior relationship or history of dealing with each other. This information will help > ensure that the sales of goods contract is tailored to the specific needs and circumstances of the parties and is enforceable under Indiana law.
 # Bluebook Citation Generator (Website)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a bluebook citation generator. I will give you my URL and you will reply to me with the citation as Bluebook required. Here is my URL:```{URL}```
