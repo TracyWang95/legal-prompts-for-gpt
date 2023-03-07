@@ -97,7 +97,8 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > 7. Any disclaimers of warranties or limitations of liability that will be included in the contract
 > 8. The remedies that are available to the buyer in case of breach of warranty or other breaches of the contract
 > 9. Any additional terms and conditions that the parties wish to include in the contract
-> In addition to the above information, it would also be helpful to know any other relevant facts about the transaction, such as whether the goods are new or used, > > whether they are custom-made or off-the-shelf, and whether the parties have any prior relationship or history of dealing with each other. This information will help > ensure that the sales of goods contract is tailored to the specific needs and circumstances of the parties and is enforceable under Indiana law.
+> 
+> In addition to the above information, it would also be helpful to know any other relevant facts about the transaction, such as whether the goods are new or used, whether they are custom-made or off-the-shelf, and whether the parties have any prior relationship or history of dealing with each other. This information will help ensure that the sales of goods contract is tailored to the specific needs and circumstances of the parties and is enforceable under Indiana law.
 # Bluebook Citation Generator (Website)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to act as a bluebook citation generator. I will give you my URL and you will reply to me with the citation as Bluebook required. Here is my URL:```{URL}```
