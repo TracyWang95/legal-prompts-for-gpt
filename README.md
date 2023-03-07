@@ -67,9 +67,9 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > 我希望你以甲方立场起草一份买卖合同，涵盖内容包括，甲方向乙方销售无缝钢管450吨，每吨6500元，材质Q345B,预付总价30%，分批发货，每批货物发货前付清该批货物余款。 需要考虑逾期付款违约责任，争议管辖机构，质保期超过交货后12个月免责，价格含税含运费，电汇，如果承兑要贴息等要点。要求句子表述完整、可读性强。语言风格专业稳重、沉稳大气。
 ## Distilled:
-> 我希望你以{who to Favor}立场起草一份买卖合同，涵盖内容包括{main points}。要求{additional requirements}。语言风格{style}。
+> 我希望你以```{who to favor}```立场起草一份买卖合同，涵盖内容包括```{main points}```。要求```{additional requirements}```。语言风格```{style}```。
 # Marketing Assistant (Imitating Writing)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > 我希望你扮演市场专家的角色，进行例句仿写。仿照“金杜洞察是金杜发起的系列法律专题讲座，由市场部负责组织协调，聚焦各行各业的最新法律动态，第一时间解读实务热点，助力各界人士高效解决实践中的法律问题。”，给出关于金杜智享会的介绍语句，主要突出“合作”、“邀请第三方”。语言风格简练、专业、沉稳。
 ## Distilled:
-> 我希望你扮演市场专家的角色，进行例句仿写。仿照{example}，给出关于{object}的介绍语句，主要突出{emphasis}。语言风格{style}。
+> 我希望你扮演市场专家的角色，进行例句仿写。仿照```{example}```，给出关于```{object}```的介绍语句，主要突出```{emphasis}```。语言风格```{style}```。
