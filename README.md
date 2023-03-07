@@ -6,11 +6,67 @@ Creating an open-source project for legal prompts engineering can bring efficien
 # Legal Translation (Multi Languages to English)
 ## Contributor: [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: ```{text}```
+## Example Dialogue
+> Question:
+> 
+> I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, legal professional English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to me with the correction, the improvements, and nothing else, do not write explanations. Here are my texts: 标的公司及各承诺方应被视为分别及连带地于交割日向本次投资人陈述、保证和承诺，标的公司和各承诺方保证的所有条款在重大方面均将是真实、准确的，就如同标的公司和各承诺方保证是于交割日作出的一样，但涉及某特定时间点事实且依其性质仅在该特定时间点存续或有效的陈述、保证，仅需在该时间点是真实和准确的。
+> Answer:
+> 
+> The target company and each committing party should be considered as making separate and joint representations, warranties, and covenants to the investors on the delivery date. All terms guaranteed by the target company and each committing party will be truthful and accurate in all material respects, just as they are guaranteed on the delivery date. However, representations, warranties, and covenants that relate to specific time points and that are only valid or effective at that specific time point, and are true and accurate only at that time point, need only be true and accurate at that time point due to their nature.
 # Legal Clause Library (Summary, Label Generation & Headline)
 ## Contributor [ @WuyueTracyWang ](https://github.com/TracyWang95)
-> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate 5 labels, a summary, and a headline in JSON PPrint form with key-value pairs. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
+> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate 5 labels, a summary, and a headline in JSON PPrint form with key-value pairs. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file. I need all the generations in English. Here are my texts: ```{text}```.
 ## Distilled
-> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate ```{quanties for label}``` labels, ```{quantities for summary}``` summary, and ```{quantities for headline}``` headline in JSON PPrint form with key-value pairs. I need all the generations in ```{language}```. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file.
+> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate ```{quanties for label}``` labels, ```{quantities for summary}``` summary, and ```{quantities for headline}``` headline in JSON PPrint form with key-value pairs. I need all the generations in ```{language}```. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file. Here are my texts: ```{text}```.
+## Example Dialogue
+> Question:
+> 
+> I would like to add the following clause to my legal clause library. Ignore section numbers, but keep the meaning the same. Generate 5 labels, 1 summary, and 5 headline in JSON PPrint form with key-value pairs. I need all the generations in English. Put all the labels in a list in this JSON. Do not contain original raw text in JSON file. Here are my texts: 7.1一般义务
+每一方向其他方承诺在未经公司或有关各方(视情况而定)的事先书面同意之前，不会向第三方披露保密信息，也不会以对公司或有关各方(视情况而定)不利的方式使用保密信息，但获得其他方保密信息的一方(“接收方”)仍可向其符合下列条件的关联方、董事、官员、雇员、经理、成员、合伙人、代表或代理人，包括但不限于其律师、顾问、贷款人、潜在投资人及财务顾问(统称“该方代表”)披露保密信息：该方代表(x)需了解相关信息以使接收方能对拟议交易进行审查与评估，(y)并被告知保密信息的保密性，且(z)同意保持保密信息的秘密性。而且每一方还应促使该方代表也遵守上述规定。上述“保密信息”含义包括：(i)任何关于任何一方的组织、业务、技术、财务、交易或事务或其各自的董事、高级管理人员或雇员的信息(无论该信息是在本协议签署日前后或当日以书面、口头或任何其他方式提供)；(ii)本协议的条款和任何其他基本文件的条款，各方及其各自的关联方的身份，以及(iii)由一方或该方代表准备、且包含或在其他方面反映保密信息或由保密信息产生的任何信息或材料。
+尽管本协议有任何其他约定，如果任何适用的法律、法规、规章、传票、法院指令、类似的司法程序、监管机构或股票交易规则，要求接收方或该方代表披露任何保密信息，则如果可能及适用法律法规许可，接收方应立即将该等要求通知披露该等保密信息的一方(“披露方”)，以便披露方能够在自担费用的情况下寻求获得保护性法院指令，或对遵守本协议给予豁免。如果披露方未能获得相关法院指令，或已豁免遵守本协议有关规定，接收方或该方代表可对保密信息中依法应当披露的部分进行披露。在接收方或该方代表完全遵守本第7.2条规定的情况下，披露方同意，接收方或该方代表可进行相关披露而无需承担任何责任。
+7.2例外 
+上述第7.1条将不适用于下列情形：
+(a)在由或代表披露方向接收方披露之前已为接收方、该方代表所拥有的信息，除非接收方知道该信息来源受到任何合约的、法律的或受托的对披露方保密义务的约束；
+(b)保密信息已被普遍公开或为公众所知，但并非由于一方或该方代表违反本协议的原因而披露或导致披露；
+(c)接收方、该方代表从第三方获得的信息，而该第三方并未违反任何不得披露该等信息的法律或合约义务；
+(d)接收方、该方代表可证明并非全部或部分依赖保密信息所形成的信息；
+(e)本协议一方披露给该方代表；前提是该方代表(i)负有类似的保密义务，或(ii)另行受到具约束力的专业保密义务的约束；或
+(f)公司在正常经营活动、交易或拟进行的交易中，因其合理必要性而需对有关任何公司的保密信息进行披露。
+
+> Answer:
+> 
+> ```{
+>     "labels": [
+>         "confidentiality",
+>         "disclosure",
+>         "exceptions",
+>         "notice",
+>         "liability"
+>     ],
+>     "summary": "This clause outlines the general obligation of confidentiality for both parties, including the circumstances under which confidential information > > may be disclosed. It also specifies exceptions to this obligation, and the requirements for notice and liability in case of disclosure.",
+>     "headlines": [
+>         {
+>             "label": "confidentiality",
+>             "text": "General obligation of confidentiality"
+>         },
+>         {
+>             "label": "disclosure",
+>             "text": "Permitted disclosures"
+>         },
+>         {
+>             "label": "exceptions",
+>             "text": "Exceptions to the obligation of confidentiality"
+>         },
+>         {
+>             "label": "notice",
+>             "text": "Notice requirements for disclosure"
+>         },
+>         {
+>             "label": "liability",
+>             "text": "Liability for disclosure"
+>         }
+>     ]
+> }```
 # Legal Agreement Draft (Design Partner Agreement)
 ## Contributor [ @JonathanDn ](https://github.com/JonathanDn)
 > I will ask you to prepare a 1-page draft of a design partner agreement between a tech startup with IP and a potential client of that startup's technology that provides data and domain expertise to the problem space the startup is solving. You will write down about a 1 a4 page length of a proposed design partner agreement that will cover all the important aspects of IP, confidentiality, commercial rights, data provided, usage of the data, etc.
@@ -40,7 +96,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 ## Contributor [ @chatgpt-prompts.net ](https://www.chatgpt-prompts.net/prompt/how-to-use-chatgpt-for-legal-research/#more-323)
 ## Modified by [ @WuyueTracyWang ](https://github.com/TracyWang95)
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of ```{quantity}``` relevant cases for legal argument on this topic with bluebook citations. My topic is ```{topic}```.
-## Example dialogue:
+## Example Dialogue:
 > Question:
 > 
 > I would like you to be an experienced legal researcher. I will give you a topic and you will return me a list of 5 relevant cases for slegal argument on this topic with bluebook citations. My topic is gay marriage.
