@@ -36,23 +36,23 @@ Creating an open-source project for legal prompts engineering can bring efficien
 
 > **Answer:**
 > ```
-{
-  "labels": [
-    "confidentiality",
-    "exceptions",
-    "disclosure",
-    "third party",
-    "responsibility"
-  ],
-  "summary": "This clause describes the obligations of the parties regarding confidential information, exceptions to those obligations, and procedures for disclosing confidential information when required by law or court order.",
-  "headline": [
-    "Confidentiality Obligations",
-    "Exceptions to Confidentiality Obligations",
-    "Disclosure Procedures",
-    "Third-Party Disclosure",
-    "Responsibility for Disclosure"
-  ]
-}
+> {
+>   "labels": [
+>     "confidentiality",
+>     "exceptions",
+>     "disclosure",
+>     "third party",
+>     "responsibility"
+>   ],
+>   "summary": "This clause describes the obligations of the parties regarding confidential information, exceptions to those obligations, and procedures for disclosing confidential information when required by law or court order.",
+>   "headline": [
+>     "Confidentiality Obligations",
+>     "Exceptions to Confidentiality Obligations",
+>     "Disclosure Procedures",
+>     "Third-Party Disclosure",
+>     "Responsibility for Disclosure"
+>   ]
+> }
 > ```
 ## Legal Agreement Draft (Design Partner Agreement)
 ## Contributor [ @JonathanDn ](https://github.com/JonathanDn)
