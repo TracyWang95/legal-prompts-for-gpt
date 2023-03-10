@@ -31,6 +31,7 @@ Creating an open-source project for legal prompts engineering can bring efficien
 > 
 > Conclusion: The hypothesis is true. The rule in Article 509 prohibits an obligor from asserting a setoff against the obligee if the obligee has an obligation for compensation for loss or damage based on a tort committed in bad faith or compensation for loss or damage for death or injury to a person. Although the rule does not specifically mention the situation described in the hypothesis, the general principle of law applies, and the person cannot set off the monetary claim against the obligation for compensation.
 ## 2. Situation, Task, Action, Result(STAR)
+## 3. Chain of Thought
 # EN-US Law
 ## 1. Legal Translation (Multi Languages to English)
 ## Contributor: [ @WuyueTracyWang ](https://github.com/TracyWang95)
